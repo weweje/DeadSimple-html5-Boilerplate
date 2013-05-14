@@ -28,4 +28,6 @@ This Boilerplate embeds other github project:
 And yeah, you can do better/slimmer/etc...
 And yeah, code isn't optimal, but that's a dragon quest, sir!
 
+<img src="http://i.imgur.com/vpTr2Ll.png" style="width:100%"/>
+
 
