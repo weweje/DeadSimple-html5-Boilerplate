@@ -17,7 +17,7 @@
 		.three,
 		.four,
 		.five{
-			margin-right:0 !important;
+			margin-right:0;
 		}		
 
 		/* nopad Blocks */
@@ -80,7 +80,13 @@
 			width:458px; 
 
 		}
-
+		.one,
+		.two,
+		.three,
+		.four,
+		.five{
+			margin-right:5px;
+		}
 		.one{
 			width:445px;
 		}
